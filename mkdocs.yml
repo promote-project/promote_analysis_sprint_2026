@@ -1,0 +1,35 @@
+#http://127.0.0.1:8000
+#mkdocs serve
+site_name: PROMOTE Analysis Sprint
+theme: minty
+#site_url: https://charlottelang.github.io/
+#repo_name: charlottelang/charlottelang.github.io
+#repo_url: https://github.com/charlottelang/charlottelang.github.io
+
+extra_css:
+  - extra.css
+
+nav:
+  - Home: index.md
+  - Schedule: schedule.md
+  - Datasets: datasets.md
+  - Get ready: get_ready.md
+#  - FAQ: FAQ.md
+
+
+markdown_extensions:
+  - pymdownx.tilde
+  - pymdownx.caret
+  - pymdownx.mark
+  - footnotes
+  - pymdownx.emoji
+
+#markdown_extensions:
+#  - pymdownx.tilde
+#  - pymdownx.superfences
+#  - pymdownx.inlinehilite
+
+#markdown_extensions:
+#  - attr_list
+#  - md_in_html
+#  - pymdownx.blocks.caption
