@@ -10,7 +10,7 @@ The Terrafirma Overshoot ensemble follows the TIPMIP protocol (Jones et al., 202
 
 
 <figure>
-  <img src="tipmip_protocol.jpg" alt="tipmip" height="320">
+  <img src="/tipmip_protocol.jpg" alt="tipmip" height="320">
   <figcaption><strong>Figure 1:</strong> The TIPMIP Tier 1 Earth system model (ESM) experiment protocol. ESMs are run in CO<sub>2</sub> emission mode with predicted atmospheric CO<sub>2</sub> concentration and a full carbon cycle.</figcaption>
 </figure>
 
@@ -74,7 +74,7 @@ If you'd like to share observational or reanalyses data that you have already do
 ## Useful files
 
 * <span style="font-weight: 500;">Ocean:</span> the ocean the mesh_mask and subbasins files can be found in the CANARI gws at `/gws/ssde/j25b/canari/shared/large-ensemble/ocean`.
-* <span style="font-weight: 500;">Ice sheet:</span> the latitude/longitude files for the ice sheet grids and the land and tile fractions and grid box area for the UM grid can be found in (TBC). Ice/land masks for the ice sheet grid are time dependent and can be found in the BISICLES output files.
+* <span style="font-weight: 500;">Ice sheet:</span> the latitude/longitude files for the ice sheet grids and the land and tile fractions and grid box area for the UM grid can be found in the PROMOTE gws at `/gws/pw/j07/promote/share/promote_analysis_sprint/useful_files`. Ice/land masks for the ice sheet grid are time dependent and can be found in the BISICLES output files.
 
 
 <div style="height: 1.5em;"></div>

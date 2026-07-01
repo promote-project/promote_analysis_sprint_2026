@@ -5,8 +5,8 @@ This page lists a few steps to take to get ready for the big day.
 1. Make sure you have registered to the event by adding your name, email and affiliation to the [participants list](https://docs.google.com/spreadsheets/d/1YyH23keVlTGwccVt-pEEn9unGV5RgsgIu_KJG66yaQU/edit?usp=sharing).
 
 2. Join the PROMOTE Analysis Sprint Slack channel 
-	* For members of NCAS, search for #promote_analysis_sprint
-	* For externals, email Charlotte (charlotte.lang@reading.ac.uk) to receive an invite.
+	* For members of NCAS, search for #promote_analysis_sprint in the NCAS Slack workspace
+	* For participants who are external to NCAS, email Charlotte (charlotte.lang@reading.ac.uk) to receive an invite.
 
 3. Access to JASMIN and group workspaces (gws)
 
