@@ -16,6 +16,8 @@ nav:
   - Get ready: get_ready.md
 #  - FAQ: FAQ.md
 
+extra_files:
+  - images/
 
 markdown_extensions:
   - pymdownx.tilde
