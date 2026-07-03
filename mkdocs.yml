@@ -2,9 +2,9 @@
 #mkdocs serve
 site_name: PROMOTE Analysis Sprint
 theme: minty
-#site_url: https://charlottelang.github.io/
-#repo_name: charlottelang/charlottelang.github.io
-#repo_url: https://github.com/charlottelang/charlottelang.github.io
+site_url: https://promote-project.github.io/promote_analysis_sprint_2026/
+#repo_name: promote-project.github.io/promote_analysis_sprint_2026
+#repo_url: https://github.com/promote-project.github.io/promote_analysis_sprint_2026
 
 extra_css:
   - extra.css
