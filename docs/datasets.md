@@ -10,7 +10,7 @@ The Terrafirma Overshoot ensemble follows the TIPMIP protocol (Jones et al., 202
 
 
 <figure>
-  <img src="/images/tipmip_protocol.jpg" alt="tipmip" height="320">
+  <img src="images/tipmip_protocol.jpg" alt="tipmip" height="320">
   <figcaption style="text-align: left;">
 <strong>Figure 1:</strong> The TIPMIP Tier 1 Earth system model (ESM) experiment protocol. ESMs are run in CO<sub>2</sub> emission mode with predicted atmospheric CO<sub>2</sub> concentration and a full carbon cycle.
 </figcaption>
