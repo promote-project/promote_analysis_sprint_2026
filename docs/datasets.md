@@ -84,4 +84,4 @@ If you'd like to share observational or reanalyses data that you have already do
 
 [1] Jones, C., et al. 2025: *The TIPMIP Earth system model experiment protocol: phase 1*. EGUsphere, (September), 1–45, [https://doi.org/10.5194/egusphere-2025-3604](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-3604/). 
 
-[2] Schiemann, R. et al. 2026: Geoscientific Model Development, submitted.
+[2] Schiemann, R. et al. 2026: *The CANARI HadGEM3 Large Ensemble: Design, and evaluation of historical experiments*. Geoscientific Model Development, submitted.
