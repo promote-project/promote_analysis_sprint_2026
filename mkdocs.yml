@@ -19,6 +19,7 @@ nav:
 extra_files:
   - images/
 
+
 markdown_extensions:
   - pymdownx.tilde
   - pymdownx.caret

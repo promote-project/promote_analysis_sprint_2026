@@ -10,7 +10,7 @@ The Terrafirma Overshoot ensemble follows the TIPMIP protocol (Jones et al., 202
 
 
 <figure>
-  <img src="/images/tipmip_protocol.jpg" alt="tipmip" height="320">
+  <img src="/promote_analysis_sprint_2026/images/tipmip_protocol.jpg" alt="tipmip" height="320">
   <figcaption style="text-align: left;">
 <strong>Figure 1:</strong> The TIPMIP Tier 1 Earth system model (ESM) experiment protocol. ESMs are run in CO<sub>2</sub> emission mode with predicted atmospheric CO<sub>2</sub> concentration and a full carbon cycle.
 </figcaption>
@@ -63,8 +63,7 @@ Below is a non-exhaustive list of useful observational products and reanalyses.
 	* [MEaSUREs](https://www.earthdata.nasa.gov/about/competitive-programs/measures) program: ice sheet velocities and surface snow and ice melt
 	* [MODIS](https://nsidc.org/data/modgrnld/versions/1) albedo
 * <span style="font-weight: 500;">Ocean</span>
-	* [HadSST](https://www.metoffice.gov.uk/hadobs/hadsst4/) dataset
-	* [EN4](https://www.metoffice.gov.uk/hadobs/en4/)
+	* [HadSST](https://www.metoffice.gov.uk/hadobs/hadsst4/) and [EN4](https://www.metoffice.gov.uk/hadobs/en4/) datasets
 	* [OSNAP](https://www.o-snap.org/data-access/) Array
 	* [RAPID](https://rapid.ac.uk/data/data-download) Array
 * <span style="font-weight: 500;">Biogeochemistry:</span>
