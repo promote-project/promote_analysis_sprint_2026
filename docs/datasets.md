@@ -48,7 +48,7 @@ The CANARI-LE (Schiemann et al., 2026) consists of 40 ensemble members of both t
 
 <span style="font-weight: 550;">Data access</span>
 
-* A subset of the CANARI-LE atmosphere, sea ice and ocean output variables (the [priority variables](/20240229-canari-le-priority-variables.xlsx){:download}) is available on JASMIN at `/gws/ssde/j25b/canari/shared/large-ensemble/priority`. HIST2 contains the 40 historical ensemble members over 1950-2014, SSP370 the future projection ensemble members over 2015-2100, and HIST1 are the 4 historical ensemble members which were part of CMIP6 over 1850-2014.
+* A subset of the CANARI-LE atmosphere, sea ice and ocean output variables (the [priority variables](/promote_analysis_sprint_2026/20240229-canari-le-priority-variables.xlsx){:download}) is available on JASMIN at `/gws/ssde/j25b/canari/shared/large-ensemble/priority`. HIST2 contains the 40 historical ensemble members over 1950-2014, SSP370 the future projection ensemble members over 2015-2100, and HIST1 are the 4 historical ensemble members which were part of CMIP6 over 1850-2014.
 * Additional output variables are available on the JASMIN Elastic Tape. Please speak to Charlotte or Reinhard if you are interested in retrieving such additional data. These retrievals are slow and it is unlikely that data for the entire Large Ensemble (all members/full period) can be retrieved during the sprint week. It is however possible to retrieve data samples to start an analysis workflow or to run some tests.
 * More information on the CANARI-LE and the available datasets can be found [here](https://ncas-cms.github.io/canari/).
 
