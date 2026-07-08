@@ -11,7 +11,7 @@ The **PROMOTE** project (Progressing Earth System Modelling for Tipping Point Ea
 
 <figure style="text-align: center;">
   <div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="images/mld-y-change-2070-2099-1950-1979.png" alt="MLD_decline_CANARI" style="height: 250px;">
+    <img src="images/mld-y-change-2070-2099-1950-1979.png" alt="MLD_decline_CANARI" style="height: 280px;">
     <img src="images/mass_change_GrIS_fig4_30yr_mean.png" alt="GrIS_mass_change" style="height: 250px;">
   </div>
   <figcaption style="text-align: left;">
