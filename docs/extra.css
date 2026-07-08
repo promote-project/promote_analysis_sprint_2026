@@ -7,6 +7,10 @@ p {
   margin-bottom: 0.4em;
 }
 
+.md-grid {
+  max-width: 1440px; 
+}
+
 /* Control spacing between sections (headers) */
 h1 {
   margin-bottom: 0.6em;
