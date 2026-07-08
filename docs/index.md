@@ -11,8 +11,8 @@ The **PROMOTE** project (Progressing Earth System Modelling for Tipping Point Ea
 
 <figure style="text-align: center;">
   <div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="images/mld-y-change-2070-2099-1950-1979.png" alt="MLD_decline_CANARI" style="height: 380px;">
-    <img src="images/mass_change_GrIS_fig4_30yr_mean.png" alt="GrIS_mass_change" style="height: 380px;">
+    <img src="images/mld-y-change-2070-2099-1950-1979.png" alt="MLD_decline_CANARI" style="height: 250px;">
+    <img src="images/mass_change_GrIS_fig4_30yr_mean.png" alt="GrIS_mass_change" style="height: 250px;">
   </div>
   <figcaption style="text-align: left;">
     <span style="font-weight: 550;">Left:</span> Average decline in the mixed layer depth (meters) in the Labrador Sea between 1950-1979 and 2070-2099 in the 40 members of the CANARI Large Ensemble (Source: Valeria Mascolo). <span style="font-weight: 550;">Right:</span> Evolution of Greenland ice sheet mass with time (10<sup>6</supGt and mm sea level equivalent) in a TerraFirma Overshoot ensemble (Smith et al., 2026).
