@@ -57,4 +57,4 @@ The participants list can be found [here](https://docs.google.com/spreadsheets/d
 
 **^^References^^**
 
-[1] Wood, R., et al. 2026: *Use of ESMs for early warning of tipping points in the North Atlantic Subpolar Gyre and Greenland Ice Sheet* (Policy brief, PROMOTE Milestone 1.2)
+[1] Wood, R., et al., 2026: *Use of ESMs for early warning of tipping points in the North Atlantic Subpolar Gyre and Greenland Ice Sheet*. Policy brief, PROMOTE Milestone 1.2, [https://doi.org/10.5281/zenodo.21223566](https://doi.org/10.5281/zenodo.21223566)
