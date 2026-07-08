@@ -12,10 +12,10 @@ The **PROMOTE** project (Progressing Earth System Modelling for Tipping Point Ea
 <figure style="text-align: center;">
   <div style="display: flex; justify-content: center; gap: 20px;">
     <img src="images/mld-y-change-2070-2099-1950-1979.png" alt="MLD_decline_CANARI" style="height: 380px;">
-    <img src="images/cat.jpg" alt="Smiling cat" style="height: 380px;">
+    <img src="images/mass_change_GrIS_fig4_30yr_mean.png" alt="GrIS_mass_change" style="height: 380px;">
   </div>
   <figcaption style="text-align: left;">
-    <span style="font-weight: 550;">Left:</span> Average decline in the mixed layer depth (meters) in the Labrador Sea between 1950-1979 and 2070-2099 in the 40 members of the CANARI Large Ensemble (Source: Valeria Mascolo). <span style="font-weight: 550;">Right:</span> Smiling cat. There will be some science about the Greenland ice sheet here instead at some point.
+    <span style="font-weight: 550;">Left:</span> Average decline in the mixed layer depth (meters) in the Labrador Sea between 1950-1979 and 2070-2099 in the 40 members of the CANARI Large Ensemble (Source: Valeria Mascolo). <span style="font-weight: 550;">Right:</span> Evolution of Greenland ice sheet mass with time (10<sup>6</supGt and mm sea level equivalent) in a TerraFirma Overshoot ensemble (Smith et al., 2026).
   </figcaption>
 </figure>
 
@@ -57,4 +57,7 @@ The participants list can be found [here](https://docs.google.com/spreadsheets/d
 
 **^^References^^**
 
-[1] Wood, R., et al., 2026: *Use of ESMs for early warning of tipping points in the North Atlantic Subpolar Gyre and Greenland Ice Sheet*. Policy brief, PROMOTE Milestone 1.2, [https://doi.org/10.5281/zenodo.21223566](https://doi.org/10.5281/zenodo.21223566)
+[1] Smith, R. S., et al., 2026: *Response of ice sheets, sea-ice and sea level in climate stabilisation and reversibility simulations using a state-of-the-art Earth System Model*. Earth System Dynamics, 17, 475–493, [https://doi.org/10.5194/esd-17-475-2026](https://doi.org/10.5194/esd-17-475-2026). 
+
+
+[2] Wood, R., et al., 2026: *Use of ESMs for early warning of tipping points in the North Atlantic Subpolar Gyre and Greenland Ice Sheet*. Policy brief, PROMOTE Milestone 1.2, [https://doi.org/10.5281/zenodo.21223566](https://doi.org/10.5281/zenodo.21223566)
