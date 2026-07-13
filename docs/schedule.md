@@ -7,7 +7,7 @@ The sprint will take place July 13-17, 2026 as an online event.
 	* Welcome and introduction (Charlotte Lang)
 	* TerraFirma ensemble presentation (Colin Jones, Jeremy Walton)
 	* CANARI ensemble presentation (Reinhard Schiemann)
-* **10:40-11:40:** [NEMO Cookbook](https://noc-msm.github.io/nemo_cookbook/): analysis of ocean-sea-ice outputs tutorial (Ollie Tooth). You can find some additional resources and a tutorial [here](https://github.com/promote-project/NEMO_cookbook_tutorial).
+* **10:40-11:40:** [NEMO Cookbook](https://noc-msm.github.io/nemo_cookbook/): analysis of ocean-sea-ice outputs tutorial (Ollie Tooth). You can find the Github repository and the tutorial [here](https://github.com/oj-tooth/NEMO_cookbook_tutorial) and [here](https://oj-tooth.github.io/NEMO_cookbook_tutorial/).
 * **16:30-17:00:** Highlights of the day
 ##Tuesday &ndash; 14<sup>th</sup> July
 * **09:45**: Teams channel opens for the day
